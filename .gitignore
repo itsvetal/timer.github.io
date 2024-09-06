@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+node_modules
+src
+LICENSE
+.husky
+package.json
+package-lock.json
+prettier.config.js
+webpack.config.js
+yarn.lock
